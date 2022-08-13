@@ -16,6 +16,8 @@ Data Description:
 6. Taxis: 11000+
 7. External factors m: 9
 8. Available views: 4416
+And you can find a visualization sample of TaxiCQ inflow/outflow on 2019-05-31 23:30.
+
 
 Feel free to contact us:
 Xu ZHANG, Ph.D, Associate Professor
