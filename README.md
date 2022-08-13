@@ -4,7 +4,7 @@ Please unzip to access the h5 file.
 If you have experience of TaxiBJ and BikeNYC, it will be easy for you to use.
 Cite these work when you use this dataset:
 
-1. Wen, S., Zhang, X., Cao, R., Li, B., and Li,Y. (2021) Mssrm: A multi-embedding based self-attention spatio-temporal recurrent model for human mobility prediction. Human-centric Computing and Information Sciences, 11, 1-11.
+1. Wen, S., Zhang, X., Cao, R., Li, B., and Li,Y. (2021) Mssrm: A multi-embedding based self-attention spatio-temporal recurrent model for human mobility prediction. Human-centric Computing and Information Sciences, 11, 1-11. (https://doi.org/10.22967/HCIS.2021.11.037)
 2. Xu Zhang, Shunjie Wen, Liang Yan, Jiangfan Feng and Ying Xia, A Hybrid-convolution Spatial-temporal Recurrent Network for Traffic Flow Prediction, The Computer Journal(under review)
 
 Data Description:
