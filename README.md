@@ -1,4 +1,4 @@
-# TaxiCQ by Chongqing University of Posts and Telecommunications
+# TaxiCQ by CQUPT
 This is a public dataset for traffic prediction.
 Please unzip to access the h5 file.
 If you have experience of TaxiBJ and BikeNYC, it will be easy for you to use.
@@ -16,4 +16,9 @@ Data Description:
 6. Taxis: 11000+
 7. External factors m: 9
 8. Available views: 4416
+
+Feel free to contact us:
+Xu ZHANG, Ph.D, Associate Professor
+Chongqing University of Posts and Telecommunications
+zhangx@cqupt.edu.cn
 
