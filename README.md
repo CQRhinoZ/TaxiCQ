@@ -22,5 +22,6 @@ And you can find a visualization sample of TaxiCQ inflow/outflow on 2019-05-31 2
 Feel free to contact us:
 Xu ZHANG, Ph.D, Associate Professor
 Chongqing University of Posts and Telecommunications
-zhangx@cqupt.edu.cn
-https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm
+Email: zhangx@cqupt.edu.cn
+
+Website: https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm
