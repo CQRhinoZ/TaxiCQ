@@ -10,13 +10,12 @@ Cite these work when you use this dataset:
 Data Description:
 1. Data type : Taxi GPS
 2. Location: Chongqing, China
-3. Time span: 03.01.2019~05.31.2019
+3. Time span: 03.01.2019~06.30.2019
 4. Time interval: 30 minutes
-5. Grid map size: (20 x 24)
+5. Grid map size: (20 x 25)
 6. Taxis: 11000+
 7. External factors m: 9
-8. Available views: 4416
-And you can find a visualization sample of TaxiCQ inflow/outflow on 2019-05-31 23:30.
+8. Available views: 4416，and you can find a visualization sample of TaxiCQ inflow/outflow on 2019-05-31 23:30.
 
 
 Feel free to contact us:
