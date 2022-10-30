@@ -4,8 +4,8 @@ Please unzip to access the h5 file.
 If you have experience of TaxiBJ and BikeNYC, it will be easy for you to use.
 Cite these work when you use this dataset:
 
-1. Shunjie Wen, Xu Zhang, Ruixu Cao, Boming Li and Yan Li, MSSRM: A multi-embedding based self-attention spatio-temporal recurrent model for human mobility prediction. Human-centric Computing and Information Sciences, 11(37), 1-16, 2021. (https://doi.org/10.22967/HCIS.2021.11.037)
-2. Xu Zhang, Shunjie Wen, Liang Yan, Jiangfan Feng and Ying Xia, A Hybrid-convolution Spatial-temporal Recurrent Network for Traffic Flow Prediction, The Computer Journal, 2022 (https://doi.org/10.1093/comjnl/bxac171)
+1. Shunjie Wen, **Xu Zhang***, Ruixu Cao, Boming Li and Yan Li, MSSRM: A multi-embedding based self-attention spatio-temporal recurrent model for human mobility prediction. Human-centric Computing and Information Sciences, 11(37), 1-16, 2021. (https://doi.org/10.22967/HCIS.2021.11.037)
+2. **Xu Zhang***, Shunjie Wen, Liang Yan, Jiangfan Feng and Ying Xia, A Hybrid-convolution Spatial-temporal Recurrent Network for Traffic Flow Prediction, The Computer Journal, 2022 (https://doi.org/10.1093/comjnl/bxac171)
 
 Data Description:
 1. Data type : Taxi GPS
