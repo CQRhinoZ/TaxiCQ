@@ -20,7 +20,7 @@ Data Description:
 
 Feel free to contact us:
 
-Xu ZHANG, Ph.D, Associate Professor
+Xu ZHANG, Ph.D, Professor
 
 Chongqing University of Posts and Telecommunications
 
